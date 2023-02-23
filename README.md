@@ -1,4 +1,1 @@
-Hi, I'm RobuxTRex/SulphurDev!
-
-I am a JavaScript fullstack, who has developed Discord bots, websites and NPM packages.
-Just send me a DM on Discord (Sulphur#1234) if you want to reach out.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=3000&pause=&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+RobuxTRex.;Hi%2C+I+make+Unity+Games.;Hi%2C+I+make+Roblox+Games.;Hi%2C+I+make+YouTube+Videos.;Hi%2C+I+make+Modifications+to+Games!;Hi%2C+I+am+a+GitHub+User.;Hi%2C+I+am+Sulphur%231234+on+Discord!)](https://git.io/typing-svg)
