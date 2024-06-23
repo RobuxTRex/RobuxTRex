@@ -3,5 +3,5 @@
 <div align="center">
   <img src="https://github-readme-stats-phi-weld.vercel.app/api?username=robuxtrex&show_icons=true&border_radius=16&title_color=ffffff&text_color=a1a8b1&bg_color=000000&border_color=ffffff&icon_color=757980" />
 </div>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robuxtrex&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://komarev.com/ghpvc/?username=RobuxTRex)
