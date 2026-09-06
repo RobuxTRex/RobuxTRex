@@ -1,6 +1,7 @@
 Hai there!
 
-I'm sulphur, a 15-year-old software engineer interested in Rust and low level development. I am from the UK and not open to work.
+I'm sulphur, a software engineer interested in Rust and low level development.
+I am from the UK and not open to work.
 
 Despite being knowledgeable in various areas of development, including low level programming, web development, and even making games in Unity, I am unfortunately yet to complete a project. However, I am currently working on a few things, such as custom Minecraft server software, an OS bootloader, and my own personal website (currently extremely outdated).
 
